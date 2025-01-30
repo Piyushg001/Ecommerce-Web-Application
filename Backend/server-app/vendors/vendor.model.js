@@ -14,4 +14,4 @@ var Vendor = new Schema({
         collection:"vendor"
     }
 )
-module.exports = mongoose.model('Vendor',Vendor)
+module.exports = mongoose.model('Vendor',Vendor) 
